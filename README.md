@@ -58,4 +58,4 @@ dotnet add package HaemmerElectronics.SeppPenner.DotNetEasyRandom
 Change history
 --------------
 
-See the [Changelog](https://github.com/SeppPenner/DotNetEasyRandom/blob/master/Changelog.md).
+See the [Changelog](https://github.com/philmalv129/DotNetEasyRandom/blob/master/Changelog.md).
